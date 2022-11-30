@@ -1,0 +1,110 @@
+{
+    "projects": [
+        {
+            "key": "simulapro",
+            "title": "Simulapro App",
+            "description": "Esta aplicación consiste en que los usuarios puedan crear sus propios exámenes o guías de estudio, para repasar lo que hayan estudiado, además de compartir sus simuladores a otros usuarios pertenecientes a la aplicación.",
+            "year": "2022",
+            "siteUrl": "https://simulapro.netlify.app/",
+            "technologies": [
+                {
+                    "name": "Gatsby JS",
+                    "icon": "https://www.fermicoding.com/sites/default/files/styles/blog_page_desktop_x_1/public/2021-08/G%20js.webp?itok=naknnzR1",
+                    "siteUrl": "https://www.gatsbyjs.com/"
+                },
+                {
+                    "name": "Typescript",
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
+                    "siteUrl": "https://www.typescriptlang.org/"
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": "https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png",
+                    "siteUrl": "https://www.mongodb.com/home"
+                },
+                {
+                    "name": "Ant Design",
+                    "icon": "https://avatars.githubusercontent.com/u/12101536?s=200&v=4",
+                    "siteUrl": "https://ant.design/"
+                },
+                {
+                    "name": "TailwindCSS",
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
+                    "siteUrl": "https://tailwindcss.com/"
+                },
+                {
+                    "name": "Express JS",
+                    "icon": "https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234-p-500.png",
+                    "siteUrl": "https://expressjs.com/"
+                }
+            ]
+        },
+        {
+            "key": "ticketplus",
+            "title": "Ticket+",
+            "description": "Mi primer proyecto personal terminado, puse en práctica mis primeras habilidades en el desarrollo del frontend sin consumir api externa, además de poner en práctica el diseño responsivo. ",
+            "year": "2021",
+            "siteUrl": "https://ticket-plus-moises.netlify.app/",
+            "technologies": [
+                {
+                    "name": "HTML",
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+                    "siteUrl": "https://developer.mozilla.org/es/docs/Web/HTML"
+                },
+                {
+                    "name": "CSS",
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
+                    "siteUrl": "https://developer.mozilla.org/es/docs/Web/CSS"
+                }
+            ]
+        },
+        {
+            "key": "eccomerce",
+            "title": "Eccomerce demo",
+            "description": "Aplicación demo cuyo objetivo es simular la compra de un producto en línea, agregando los datos de envío del cliente y mostrar el estatus de envío del pedido.",
+            "year": "2022",
+            "siteUrl": "https://eccomerce-mfuentes.netlify.app/",
+            "technologies": [
+                {
+                    "name": "Gatsby JS",
+                    "icon": "https://www.fermicoding.com/sites/default/files/styles/blog_page_desktop_x_1/public/2021-08/G%20js.webp?itok=naknnzR1",
+                    "siteUrl": "https://www.gatsbyjs.com/"
+                },
+                {
+                    "name": "Ant Design",
+                    "icon": "https://avatars.githubusercontent.com/u/12101536?s=200&v=4",
+                    "siteUrl": "https://ant.design/"
+                },
+                {
+                    "name": "TailwindCSS",
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
+                    "siteUrl": "https://tailwindcss.com/"
+                }
+            ]
+        },
+        {
+            "key": "cheemsapp",
+            "title": "CheemText App",
+            "description": "Pequeño proyecto el cual consiste en ingresar un texto, y, el Doge, te regresa el texto modificado, seleccionando el nivel de intensidad con la cual el texto se verá afectado. ",
+            "year": "2022",
+            "siteUrl": "https://cheem-text.netlify.app/",
+            "technologies": [
+                {
+                    "name": "React JS",
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png",
+                    "siteUrl": "https://es.reactjs.org/"
+                },
+                {
+                    "name": "Ant Design",
+                    "icon": "https://avatars.githubusercontent.com/u/12101536?s=200&v=4",
+                    "siteUrl": "https://ant.design/"
+                },
+                {
+                    "name": "TailwindCSS",
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
+                    "siteUrl": "https://tailwindcss.com/"
+                }
+            ]
+        }
+    ]
+}
