@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.p {
+  margin: 0px;
+}
+
+.ant-btn-primary {
+  /* blue-primary-300 */
+  background: #0051ff;
+  border-radius: 4px;
+}
+
+.ant-btn-primary:hover {
+  /* blue-primary-700 */
+  background: #0045db88;
+}
+
+.glass {
+  background-color: #ffffff44;
+  backdrop-filter: blur(32px);
+  -webkit-backdrop-filter: blur(32px);
+}
+
+.glass-pink {
+  background-color: rgba(255, 168, 255, 0.369);
+  backdrop-filter: blur(32px);
+  -webkit-backdrop-filter: blur(32px);
+}
